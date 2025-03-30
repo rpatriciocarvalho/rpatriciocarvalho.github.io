@@ -1,3 +1,31 @@
-theme: jekyll-theme-minimal
-title: Rodrigo Patricio
-description: Desenvolvedor
+theme: minima
+title: Blog do Rodrigo
+author: Rodrigo Patricio
+description: Sou desenvolvedor, estudante de Ciência de Dados outras coisas mais
+
+email: rpatriciocarvalho@gmail.com
+github_username: rpatriciocarvalho
+linkedin_username: rpatriciocarvalho
+flickr_username: rpatriciocarvalho
+instagram_username: rodrigopatricio.br
+
+rss: rss
+
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+    
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+titles_from_headings:
+  strip_title: true
+  collections: true
+
+defaults:
+  - scope:
+      path: ""
+      type: post
+    values:
+      tags: Other
