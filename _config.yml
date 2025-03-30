@@ -1,5 +1,21 @@
-theme: minima
-
 title: Blog do Rodrigo
-author: Rodrigo Patricio
+author:
+  name: Rodrigo Patricio
+  email: rpatriciocarvalho@gmail.com
+
 description: Sou desenvolvedor, estudante de Ciência de Dados outras coisas mais.
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+minima:
+  skin: classic
+  social_links:
+    - title: Github
+      icon: github
+      url: "https://github.com/rpatriciocarvalho"
+    - title: Instagram
+      icon: instagram
+      url: "https://instagram.com/rodrigopatricio.br"
