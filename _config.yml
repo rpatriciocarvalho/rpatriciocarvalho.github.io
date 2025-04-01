@@ -1,21 +1,6 @@
-title: Blog do Rodrigo
-author:
-  name: Rodrigo Patricio
-  email: rpatriciocarvalho@gmail.com
+remote_theme: b2a3e8/jekyll-theme-console
 
-description: Sou desenvolvedor, estudante de Ciência de Dados outras coisas mais.
+style: light
+listen_for_clients_preferred_style: true
 
-theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-minima:
-  skin: classic
-  social_links:
-    - title: Github
-      icon: github
-      url: "https://github.com/rpatriciocarvalho"
-    - title: Instagram
-      icon: instagram
-      url: "https://instagram.com/rodrigopatricio.br"
+footer: 'siga no <a href="https://instagram.com/rodrigopatricio.br">instagram</a>'
