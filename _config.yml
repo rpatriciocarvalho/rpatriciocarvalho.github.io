@@ -16,3 +16,5 @@ header_pages:
 
 plugins:
   - jekyll-seo-tag
+
+google_analytics: G-8XVM6LV5YM
