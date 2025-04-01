@@ -1,6 +1,18 @@
+title: 'Rodrigo Patricio'
+description: 'Um blog sobre desenvolvimento de software, ciência de dados e outras coisas mais.'
+baseurl: '/'
+url: 'https://rodrigopatricio.br'
+
 remote_theme: b2a3e8/jekyll-theme-console
 
 style: light
 listen_for_clients_preferred_style: true
 
 footer: 'siga no <a href="https://instagram.com/rodrigopatricio.br">instagram</a>'
+
+header_pages:
+  - index.md
+#  - about.md
+
+plugins:
+  - jekyll-seo-tag

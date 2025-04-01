@@ -1,5 +1,8 @@
 ---
+title: Rodrigo Patricio
 layout: home
+permalink: /
 ---
 
-Nesse blog escrevo sobre coisas relacionadas a desenvolvimento de software, ciência de dados e outras coisas mais.
+# Olá
+Sou Rodrigo Patrricio e nesse blog escrevo sobre coisas relacionadas a desenvolvimento de software, ciência de dados e outras coisas mais.
