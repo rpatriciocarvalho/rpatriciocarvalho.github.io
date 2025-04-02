@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "O caminho para a feliz cidade"
-date:   2025-04-01 13:42:45 -0300
+date:   2025-04-01
 categories: devaneios
 ---
 
