@@ -1,20 +1,42 @@
-title: 'Rodrigo Patricio'
-description: 'Um blog sobre devaneios, desenvolvimento de software, ciência de dados e outras coisas mais.'
-baseurl: '/'
-url: 'https://rodrigopatricio.com'
+title: Rodrigo Patricio
+author:
+  name: Rodrigo Patricio
+  email: rpatriciocarvalho@gmail.com
 
-remote_theme: b2a3e8/jekyll-theme-console
+description: Um blog sobre devaneios, desenvolvimento de software, ciência de dados e outras coisas mais.
 
-style: light
-listen_for_clients_preferred_style: true
-
-footer: 'siga no <a href="https://instagram.com/rodrigopatricio.br">instagram</a>'
-
-header_pages:
-  - index.md
-#  - about.md
+theme: minima
 
 plugins:
+  - jekyll-feed
   - jekyll-seo-tag
 
-google_analytics: G-8XVM6LV5YM
+sass:
+  quiet_deps: true
+  silence_deprecations: [import]
+
+minima:
+  skin: classic
+
+  # Specific pages for site navigation.
+  #   If you wish to link only specific pages in the site-navigation, use this and list
+  #   the `path` property (as represented via Liquid) of the pages in the order they
+  #   should be rendered.
+  #nav_pages:
+  #  - about.md
+
+  # Set to `true` to show excerpts on the homepage.
+  show_excerpts: false
+
+  # Minima date format.
+  #   The default value is "%b %d, %Y" (e.g. Nov 14, 2023).
+  #   Refer to https://shopify.github.io/liquid/filters/date/ for valid values.
+  date_format: "%d/%m/%Y"
+
+  social_links:
+    - title: Github
+      icon: github
+      url: "https://github.com/rpatriciocarvalho"
+    - title: Instagram
+      icon: instagram
+      url: "https://instagram.com/rodrigopatricio.br"
