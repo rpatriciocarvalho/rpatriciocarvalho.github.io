@@ -1,32 +1,25 @@
 title: Rodrigo Patricio
-author:
-  name: 'Rodrigo Patricio'
-  email: rpatriciocarvalho@gmail.com
+author: Rodrigo Patricio
+email: rpatriciocarvalho@gmail.com
 
 description: Um blog sobre devaneios, desenvolvimento de software, ciência de dados e outras coisas mais.
 
-theme: minima
+remote_theme: "jekyll/minima@c6e74bb"
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-sass:
-  quiet_deps: true
-  silence_deprecations: [import]
+github_username: rpatriciocarvalho
+instagram_username: rodrigopatricio.br
+rss: rss
 
-minima:
-  skin: classic
-  show_excerpts: false
-  date_format: "%d/%m/%Y"
-  nav_pages:
-    - index.md
-  social_links:
-    - title: Github
-      icon: github
-      url: "https://github.com/rpatriciocarvalho"
-    - title: Instagram
-      icon: instagram
-      url: "https://instagram.com/rodrigopatricio.br"
+show_excerpts: false
+
+header_pages:
+  - index.md
 
 google_analytics: G-8XVM6LV5YM
+
+minima:
+  date_format: "%d/%m/%Y"
