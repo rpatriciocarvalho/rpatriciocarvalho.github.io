@@ -17,22 +17,8 @@ sass:
 
 minima:
   skin: classic
-
-  # Specific pages for site navigation.
-  #   If you wish to link only specific pages in the site-navigation, use this and list
-  #   the `path` property (as represented via Liquid) of the pages in the order they
-  #   should be rendered.
-  #nav_pages:
-  #  - about.md
-
-  # Set to `true` to show excerpts on the homepage.
   show_excerpts: false
-
-  # Minima date format.
-  #   The default value is "%b %d, %Y" (e.g. Nov 14, 2023).
-  #   Refer to https://shopify.github.io/liquid/filters/date/ for valid values.
   date_format: "%d/%m/%Y"
-
   social_links:
     - title: Github
       icon: github
@@ -40,3 +26,5 @@ minima:
     - title: Instagram
       icon: instagram
       url: "https://instagram.com/rodrigopatricio.br"
+
+google_analytics: G-8XVM6LV5YM
