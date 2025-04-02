@@ -11,12 +11,12 @@ Meus caros,
 
 É bem simples, basta fazer checkout na branch que você deseja (por exemplo, `branch-feature`)
 
-```console
+```bash
 git checkout branch-feature
 ```
 e então verificar as difereças em relação a branch de comparação (por exemplo, a branch `main`) 
 
-```console
+```bash
 git diff --name-only main
 ```
 
@@ -24,7 +24,7 @@ O parâmentro --name-only retorna apenas o nome do arquivo com seu caminho.
 
 Aproveitando, se quiser saber os arquivos modificados em um commit, faça 
 
-```console
+```bash
 git diff-tree --no-commit-id --name-only -r <id-do-commit>
 ```
 
