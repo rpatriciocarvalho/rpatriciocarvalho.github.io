@@ -27,7 +27,7 @@ A playlist **Code Radio** contém agumas músicas do mesmo artista em sequência
 
 ## Dica  
 
-Uma dica extra são os sets da **Rehtz** ([https://www.youtube.com/@rehrtz](https://www.youtube.com/@rehrtz)), uma DJ de São Paulo. Ela produz músicas com uma sonoridade muito suave e envolvente. É muito boa pra momentos de trabalho e de descanso. Apesar de haver mais melodias vocais, curiosamente me ajudam a manter o foco de uma forma diferente, mas igualmente eficaz. 
+Uma dica extra são os sets da **Rehrtz** ([https://www.youtube.com/@rehrtz](https://www.youtube.com/@rehrtz)), uma DJ de São Paulo. Ela produz músicas com uma sonoridade muito suave e envolvente. É muito boa pra momentos de trabalho e de descanso. Apesar de haver mais melodias vocais, curiosamente me ajudam a manter o foco de uma forma diferente, mas igualmente eficaz. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SY16JEqh8pE?si=mRtnnsT4KMTFWObp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
