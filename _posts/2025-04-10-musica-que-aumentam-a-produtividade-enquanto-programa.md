@@ -31,7 +31,6 @@ Uma dica extra são os sets da **Rehtz** ([https://www.youtube.com/@rehrtz](http
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SY16JEqh8pE?si=mRtnnsT4KMTFWObp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
 A Paz,
 
 =)
