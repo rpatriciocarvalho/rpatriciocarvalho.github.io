@@ -25,9 +25,9 @@ A playlist **Code Radio** contém agumas músicas do mesmo artista em sequência
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3hNHxEUknui5RBZuDwazzp?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-## Dica  
+## Dica
 
-Uma dica extra são os sets da **Rehrtz** ([https://www.youtube.com/@rehrtz](https://www.youtube.com/@rehrtz)), uma DJ de São Paulo. Ela produz músicas com uma sonoridade muito suave e envolvente. É muito boa pra momentos de trabalho e de descanso. Apesar de haver mais melodias vocais, curiosamente me ajudam a manter o foco de uma forma diferente, mas igualmente eficaz. 
+Uma dica extra são os sets da **Rehrtz** ([https://www.youtube.com/@rehrtz](https://www.youtube.com/@rehrtz)), uma DJ de São Paulo. Ela faz a curadoria de músicas e construção do set com uma sonoridade muito suave e envolvente. É muito boa pra momentos de trabalho e de descanso, além de descontração. Apesar de haver mais melodias vocais, curiosamente me ajudam a manter o foco de uma forma diferente, mas igualmente eficaz. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SY16JEqh8pE?si=mRtnnsT4KMTFWObp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
