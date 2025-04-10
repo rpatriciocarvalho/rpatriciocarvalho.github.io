@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Música para concentrar: Playlists que aumentam a produtividade enquanto programa"
+title: "Músicas que aumentam a produtividade enquanto programa"
 date:   2025-04-10 07:00:00 -0300
 categories: dev outros
 ---
